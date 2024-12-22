@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'EasyMode.dart'; // Update with your actual import path
-import 'QuestionScreen.dart'; // Update with your actual import path
+import 'EasyMode.dart';
+import 'QuestionScreen.dart';
 import 'package:app/screens/ConnectionTester.dart';
 class ModeSelectionScreen extends StatelessWidget {
-  final String selectedTopic; // The selected topic passed from the previous screen
+  final String selectedTopic; 
 
   const ModeSelectionScreen({super.key, required this.selectedTopic});
 
