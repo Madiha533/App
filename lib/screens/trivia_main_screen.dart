@@ -8,8 +8,7 @@ class TriviaMainScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return WillPopScope(
       onWillPop: () async {
-        // This will close the app when back button is pressed
-        return true; // Returning true allows the back action to proceed
+        return true; 
       },
       child: Scaffold(
         backgroundColor: const Color(0xFFEDF3F6),
