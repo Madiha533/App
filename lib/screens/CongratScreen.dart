@@ -43,7 +43,7 @@ class _CongratScreenState extends State<CongratScreen>
     return Scaffold(
       body: Stack(
         children: [
-          // Confetti animation
+          // Confetti.gif animation
           if (!isLowScore)
             AnimatedBuilder(
               animation: _animation,

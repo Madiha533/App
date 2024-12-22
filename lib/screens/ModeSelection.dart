@@ -50,7 +50,7 @@ class ModeSelectionScreen extends StatelessWidget {
                 Expanded(
                   child: GestureDetector(
                     onTap: () {
-                      // Navigate to full EasyScreenMode with actual quiz logic
+
                       Navigator.push(
                         context,
                         MaterialPageRoute(
@@ -87,7 +87,7 @@ class ModeSelectionScreen extends StatelessWidget {
                 Expanded(
                   child: GestureDetector(
                     onTap: () {
-                      // Navigate to full EasyScreenMode with actual quiz logic
+
                       Navigator.push(
                         context,
                         MaterialPageRoute(

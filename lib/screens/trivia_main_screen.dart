@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'ModeSelection.dart'; // Ensure this import is correct
+import 'ModeSelection.dart'; 
 
 class TriviaMainScreen extends StatelessWidget {
   const TriviaMainScreen({super.key});

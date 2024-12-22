@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'trivia_main_screen.dart';
-import 'CongratScreen.dart'; // Import the CongratsScreen file
+import 'CongratScreen.dart';
 
 class QuestionScreen extends StatefulWidget {
   final String topicName;
