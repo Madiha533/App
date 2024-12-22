@@ -1,4 +1,4 @@
-# app
+# Trivia Quiz App
 
 A new Flutter project.
 
