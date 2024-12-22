@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "83891236587",
+    "firebase_url": "https://triviagame-5bb67-default-rtdb.firebaseio.com",
+    "project_id": "triviagame-5bb67",
+    "storage_bucket": "triviagame-5bb67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83891236587:android:b6222eb6269afd7a7f18ae",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAfHag4XVzzWLishiaYTFi1IPAPhhbqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
