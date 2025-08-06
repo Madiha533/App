@@ -3,11 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-Turned in
 
-QuizApp.txt
-Text
-Overview:
+## Overview:
 Trivia Quest is a mobile application designed to transform technical learning into an engaging, interactive experience. Developed specifically for students and technology enthusiasts, the app offers a comprehensive quiz platform across multiple computer science and technology domains.
 
 Application Structure
